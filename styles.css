@@ -1,0 +1,103 @@
+.nav-tab{
+    display: flex;
+    justify-content: space-between;
+    padding: 38px;
+}
+
+.left-side {
+   display: flex;
+}
+
+
+.nav-tab > .left-side > div {
+    margin-right: 35px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-style: italic;
+  }
+
+  /* nav-link-1 */
+.nav-link-1 {
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+    border-bottom: none;
+}
+
+.nav-link-1 a {
+   color: gray;
+   text-decoration: none;
+   transition: color 0.5s;
+}
+
+
+ /* nav-link-2 */
+.nav-link-2 {
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+    border-bottom: none;
+}
+
+.nav-link-2 a {
+   color: gray;
+   text-decoration: none;
+   transition: color 0.5s;
+}
+
+/* nav-link-3 */
+
+.nav-link-3 {
+    Height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+    border-bottom: none;
+}
+
+.nav-link-3 a {
+   color: gray;
+   text-decoration: none;
+   transition: color 0.5s;
+}
+
+/* nav-link-4 */
+
+.nav-link-4 {
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+    border-bottom: none;
+}
+
+.nav-link-4 a {
+   color: gray;
+   text-decoration: none;
+   transition: color 0.5s;
+}
+
+
+
+.nav-link-4 a:hover{
+    color: brown;
+    border-bottom: 1px solid brown;
+
+}
+
+.nav-link-1 a:hover{
+    color: red;
+    border-bottom: 1px solid red;
+}
+
+.nav-link-2 a:hover{
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+
+.nav-link-3 a:hover{
+    color: green;
+    border-bottom: 1px solid green;
+}
+
+
+    
